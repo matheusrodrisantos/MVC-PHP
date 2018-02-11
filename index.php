@@ -9,7 +9,7 @@
     //    try {
     //        Db::connect('host', 'usuario', 'senha', 'base');
     //    } catch (Exception $e) {
-    //        // Mensagem de erro caso não consiga conectar ao banco
+    //        // Mensagem de erro ao se conectar com o Banco
     //        die("Erro ao conectar ao banco de dados!");
     //    }
     // Criar um objeto instanciado da classe RouterController, e passar via superglobal $_SERVER
