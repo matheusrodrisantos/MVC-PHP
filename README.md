@@ -24,7 +24,9 @@ Model-view-controller (MVC), é um padrão de arquitetura de software (Não conf
   MVC
   |
   |--assets/
-  |  |--arquivos para estilo/
+  |  |--css/
+  |  |--img/
+  |  |--js/
   |  
   |--controllers/
   |  |--all controllers/
