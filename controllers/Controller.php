@@ -14,9 +14,9 @@
         protected  $view = '';
         protected  $head = array('title' => '', 'description' => '');
         // Quantidade de pastas onde o sistema se encontra | Ex. sistemas/mvc = 2 | ***(Caso o sistema não esteja na raiz do servidor)*** 
-        protected $base = 2;
+        protected $base = 1;
         // Define a URL base | Ex. sistemas/mvc | ***(Caso o sistema não esteja na raiz do servidor)*** 
-        public $baseUrl = " ";
+        public $baseUrl = "mvc/";
         /* process($params);
         *  Metodo abstrato do processamento dos parametros,
         *  cada controller vai ter o seu proprio tipo de processamento por isso abstrato.
