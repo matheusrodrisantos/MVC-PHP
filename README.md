@@ -4,7 +4,7 @@ Model-view-controller (MVC), é um padrão de arquitetura de software (Não conf
 
 
 
-![](https://i.imgur.com/gI6tXQX.png)
+![](https://i.imgur.com/HUhtjBp.png)
 
 
 #### Model 
