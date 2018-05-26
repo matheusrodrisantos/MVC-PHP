@@ -44,7 +44,9 @@ Model-view-controller (MVC), é um padrão de arquitetura de software (Não conf
   |
 ```
 
-## Repositório
+## O que é esse repositório?
+
+É um analisador simples Lexico e Sintatico usando os padrões MVC em PHP. Projeto para aprendizado dos padrões MVC e OO em PHP.
 
 Todos os arquivos que estão disponíveis nesse repositório estão comentados para facilitar o entendimento do que está acontecendo no código e assim conseguir construir sua base de arquitetura MVC para facilitar na organização da sua aplicação.
 
